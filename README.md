@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hello%20There!%20🤠&text2=💖%Hey%20Visitor&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)(https://github.com/Akshay090/svg-banners)
  <h1 align="center">Hi 👋, I'm Parthib Sarkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hjMTAyN3BpbzhoNWU2dXZjZGNmbDlzdmVvN2h0dWF5MXd0b2Q1byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/200.gif">
