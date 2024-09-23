@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthib2004&label=Profile%20views&color=0e75b6&style=flat" alt="parthib2004" /> </p>
 
 <p align="left"> <a href="https://twitter.com/parthibishere" target="blank"><img src="https://img.shields.io/twitter/follow/parthibishere?logo=twitter&style=for-the-badge" alt="parthibishere" /></a> </p>
+[![An image of @parthib2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parthib2004)](https://holopin.io/@parthib2004)
 
 - 🌱 I’m currently learning **AI/ML & Generative AI**
 
